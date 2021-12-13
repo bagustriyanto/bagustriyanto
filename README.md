@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-bagusputrat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bagusputrat)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-bagusputrat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bagusputrat@gmail.com)](mailto:asterp04@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-bagusputrat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bagusputrat)](https://www.linkedin.com/in/bagusputrat) [![Gmail Badge](https://img.shields.io/badge/-bagusputrat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bagusputrat@gmail.com)](mailto:bagusputrat@gmail.com)
 
 <!--
 **bagustriyanto/bagustriyanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
