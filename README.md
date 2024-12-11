@@ -24,3 +24,4 @@
 - [New Student Admission](https://brief-flax-01f.notion.site/Penerimaan-Peserta-Didik-Baru-New-Student-Admission-System-ce8d16b3500f4f4f94c5c6b77bc98073?pvs=4)
 
 ## <h3>Blog</h3>
+- [Memanfaatkan Nuxt 3 sebagai API Server](https://brief-flax-01f.notion.site/Memanfaatkan-Nuxt-3-sebagai-Server-Engine-1597bbd3099680bc8a6be086e23f6c4e?pvs=4)
