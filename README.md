@@ -25,3 +25,4 @@
 
 ## <h3>Blog</h3>
 - [Memanfaatkan Nuxt 3 sebagai API Server](https://brief-flax-01f.notion.site/Memanfaatkan-Nuxt-3-sebagai-Server-Engine-1597bbd3099680bc8a6be086e23f6c4e?pvs=4)
+- [HttpRequest dan HttpStatus pada Nuxt 3](https://brief-flax-01f.notion.site/HttpRequest-dan-HttpStatus-pada-Nuxt-3-1597bbd3099680d0b1d3d98b177ca39b?pvs=4)
