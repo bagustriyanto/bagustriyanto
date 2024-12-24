@@ -27,3 +27,4 @@
 - [Memanfaatkan Nuxt 3 sebagai API Server](https://brief-flax-01f.notion.site/Memanfaatkan-Nuxt-3-sebagai-Server-Engine-1597bbd3099680bc8a6be086e23f6c4e?pvs=4)
 - [HttpRequest dan HttpStatus pada Nuxt 3](https://brief-flax-01f.notion.site/HttpRequest-dan-HttpStatus-pada-Nuxt-3-1597bbd3099680d0b1d3d98b177ca39b?pvs=4)
 - [Membuat Login JWT untuk API server di Nuxt part 1](https://brief-flax-01f.notion.site/Membuat-Login-JWT-untuk-API-server-di-Nuxt-Part-1-1627bbd3099680149ffdd20546650179?pvs=4)
+- [Membuat Login JWT untuk API server di Nuxt part 2](https://brief-flax-01f.notion.site/Membuat-Login-JWT-untuk-API-server-di-Nuxt-Part-2-1657bbd30996808abbf8f84ec0003876?pvs=4)
