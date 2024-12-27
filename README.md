@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bagus Putra</h1>
+<h1 align="center">Hi 👋, I'm Bagus Putra Triyanto</h1>
 <h3 align="center">A Software Engineer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagustriyanto&label=Profile%20views&color=0e75b6&style=flat" alt="bagustriyanto" /> </p>
@@ -28,3 +28,4 @@
 - [HttpRequest dan HttpStatus pada Nuxt 3](https://brief-flax-01f.notion.site/HttpRequest-dan-HttpStatus-pada-Nuxt-3-1597bbd3099680d0b1d3d98b177ca39b?pvs=4)
 - [Membuat Login JWT untuk API server di Nuxt part 1](https://brief-flax-01f.notion.site/Membuat-Login-JWT-untuk-API-server-di-Nuxt-Part-1-1627bbd3099680149ffdd20546650179?pvs=4)
 - [Membuat Login JWT untuk API server di Nuxt part 2](https://brief-flax-01f.notion.site/Membuat-Login-JWT-untuk-API-server-di-Nuxt-Part-2-1657bbd30996808abbf8f84ec0003876?pvs=4)
+- [Membuat Login JWT untuk API server di Nuxt part 3](https://brief-flax-01f.notion.site/Membuat-Login-JWT-untuk-API-server-di-Nuxt-Part-3-1697bbd309968086a984ee52ea2b18f4?pvs=4)
