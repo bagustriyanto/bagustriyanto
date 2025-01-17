@@ -24,8 +24,8 @@
 - [New Student Admission](https://brief-flax-01f.notion.site/Penerimaan-Peserta-Didik-Baru-New-Student-Admission-System-ce8d16b3500f4f4f94c5c6b77bc98073?pvs=4)
 
 ## <h3>Blog</h3>
-- [Memanfaatkan Nuxt 3 sebagai API Server](https://brief-flax-01f.notion.site/Memanfaatkan-Nuxt-3-sebagai-Server-Engine-1597bbd3099680bc8a6be086e23f6c4e?pvs=4)
-- [HttpRequest dan HttpStatus pada Nuxt 3](https://brief-flax-01f.notion.site/HttpRequest-dan-HttpStatus-pada-Nuxt-3-1597bbd3099680d0b1d3d98b177ca39b?pvs=4)
-- [Membuat Login JWT untuk API server di Nuxt part 1](https://brief-flax-01f.notion.site/Membuat-Login-JWT-untuk-API-server-di-Nuxt-Part-1-1627bbd3099680149ffdd20546650179?pvs=4)
-- [Membuat Login JWT untuk API server di Nuxt part 2](https://brief-flax-01f.notion.site/Membuat-Login-JWT-untuk-API-server-di-Nuxt-Part-2-1657bbd30996808abbf8f84ec0003876?pvs=4)
+- [Memanfaatkan Nuxt 3 sebagai API Server](https://medium.com/@bagusputrat/memanfaatkan-nuxt-3-sebagai-api-server-eaa66b726741)
+- [HttpRequest dan HttpStatus pada Nuxt 3](https://medium.com/@bagusputrat/httprequest-dan-httpstatus-pada-nuxt-3-7af38eec5171)
+- [Membuat Login JWT untuk API server di Nuxt part 1](https://medium.com/@bagusputrat/membuat-login-jwt-untuk-api-server-di-nuxt-part-1-d90c1a72957f)
+- [Membuat Login JWT untuk API server di Nuxt part 2](https://medium.com/@bagusputrat/membuat-login-jwt-untuk-api-server-di-nuxt-part-2-cca3fa261663)
 - [Membuat Login JWT untuk API server di Nuxt part 3](https://brief-flax-01f.notion.site/Membuat-Login-JWT-untuk-API-server-di-Nuxt-Part-3-1697bbd309968086a984ee52ea2b18f4?pvs=4)
