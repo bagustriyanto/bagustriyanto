@@ -28,4 +28,5 @@
 - [HttpRequest dan HttpStatus pada Nuxt 3](https://medium.com/@bagusputrat/httprequest-dan-httpstatus-pada-nuxt-3-7af38eec5171)
 - [Membuat Login JWT untuk API server di Nuxt part 1](https://medium.com/@bagusputrat/membuat-login-jwt-untuk-api-server-di-nuxt-part-1-d90c1a72957f)
 - [Membuat Login JWT untuk API server di Nuxt part 2](https://medium.com/@bagusputrat/membuat-login-jwt-untuk-api-server-di-nuxt-part-2-cca3fa261663)
-- [Membuat Login JWT untuk API server di Nuxt part 3](https://brief-flax-01f.notion.site/Membuat-Login-JWT-untuk-API-server-di-Nuxt-Part-3-1697bbd309968086a984ee52ea2b18f4?pvs=4)
+- [Membuat Login JWT untuk API server di Nuxt part 3](https://medium.com/@bagusputrat/membuat-login-jwt-untuk-api-server-di-nuxt-part-3-bab20b1351d0)
+- [Menghubungkan MariaDB di Nuxt menggunakan Sequelize ORM](https://medium.com/@bagusputrat/menghubungkan-mariadb-di-nuxt-menggunakan-sequelize-orm-e496d1372119)
